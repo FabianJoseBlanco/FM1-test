@@ -2,7 +2,7 @@
 
 function BinarioADecimal(num) {
   // tu codigo aca
-
+var fabian ="fabian";
 }
 
 function DecimalABinario(num) {
